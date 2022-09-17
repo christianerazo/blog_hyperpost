@@ -1,4 +1,5 @@
-#hyperblog de christian :tw-1f60d:
+# hyperblog de christian 
+
 un blog increible para practicas
 >el mejor curso que hay.
 > - christian 
